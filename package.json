@@ -34,7 +34,7 @@
     "imdb-api": "4.2.0",
     "inquirer": "7.3.3",
     "lodash.groupby": "4.6.0",
-    "ora": "5.0.0",
+    "ora": "5.4.1",
     "video-name-parser": "1.4.6"
   },
   "devDependencies": {
