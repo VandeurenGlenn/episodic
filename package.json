@@ -35,7 +35,7 @@
     "inquirer": "7.3.3",
     "lodash.groupby": "4.6.0",
     "ora": "5.0.0",
-    "video-name-parser": "1.4.6"
+    "video-name-parser": "1.4.7"
   },
   "devDependencies": {
     "eslint": "7.7.0",
