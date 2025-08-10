@@ -32,7 +32,7 @@
     "chalk": "4.1.0",
     "commander": "6.0.0",
     "imdb-api": "4.2.0",
-    "inquirer": "7.3.3",
+    "inquirer": "8.2.7",
     "lodash.groupby": "4.6.0",
     "ora": "5.0.0",
     "video-name-parser": "1.4.6"
